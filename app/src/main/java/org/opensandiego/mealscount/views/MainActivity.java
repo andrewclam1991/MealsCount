@@ -1,7 +1,9 @@
-package org.opensandiego.mealscount;
+package org.opensandiego.mealscount.views;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import org.opensandiego.mealscount.R;
 
 public class MainActivity extends AppCompatActivity {
 
